@@ -1,0 +1,4 @@
+model,mean,std,file
+Q-learning,-227.7790126,141.6986325,/content/drive/MyDrive/lunar_lander_fullTraining/outputs/models/q_table.npy
+DQN,-24.23918205,48.34777025,/content/drive/MyDrive/lunar_lander_fullTraining/outputs/models/dqn.pth
+STM-DQN,181.803668,113.6872444,/content/drive/MyDrive/lunar_lander_fullTraining/outputs/models/stm_dqn.pth
